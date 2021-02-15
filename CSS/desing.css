@@ -1,0 +1,56 @@
+*{
+   font-family: monospace;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    width: 1000px;
+    margin: auto;
+}
+
+section{
+    width: 1000px;
+    margin: auto;
+}
+.titulo_1{
+    color: darkred;
+    font-size: 50px;
+    font-family: fantasy;
+    text-align: center;
+}
+
+.parrafo_1{
+    text-align: justify;
+    font-family: inherit;
+}
+
+.CASILLA_1{
+    text-align: center;
+    background-color: blueviolet;
+    color:aliceblue;
+    padding: 15px 0px 0px 0px;
+    font-size: 20px;
+}
+
+
+.LISTA_1{
+   font-family: cursive;
+   color:red; 
+}
+.LISTA_2{
+   font-family: cursive;
+    color:green;
+}
+.LISTA_3{
+   font-family: cursive;
+    color:blue;
+}
+.LISTA_4{
+   font-family: cursive;
+    color:yellow;
+}
+
+.tabla{
+    margin: 15px 0px 15px 0px;
+}
